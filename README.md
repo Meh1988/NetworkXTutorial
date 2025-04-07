@@ -1,5 +1,5 @@
 # NetworkXTutorial
-# 📊 Network Centrality Analysis with NetworkX
+# 📊 Network Analysis with NetworkX
 
 This project performs social network analysis using Python's `NetworkX`, focusing on centrality measures, subgraph creation, and shortest path analysis. It includes two main parts:
 
