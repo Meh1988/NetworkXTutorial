@@ -23,4 +23,4 @@ This project performs social network analysis using Python's `NetworkX`, focusin
 Install dependencies with:
 
 ```bash
-pip install networkx matplotlib pandas numpy scipy
+pip install networkx matplotlib pandas numpy scipy python-louvain
