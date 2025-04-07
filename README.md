@@ -12,7 +12,7 @@ This project performs social network analysis using Python's `NetworkX`, focusin
 
 - **A**: Analyze a custom graph from CSV and visualize centrality measures.
 - **B**: Analyze Facebook social graph and perform subgraph centrality analysis.
-- - **Exercise Solution**: Custom random graph generation and analysis, plus analysis on the Les Misérables character network.
+- **Exercise Solution**: Custom random graph generation and analysis, plus analysis on the Les Misérables character network.
 - `edges.csv`: Edge list (source → target) for Part A.
 - `facebook_combined.txt`: Facebook edge list for Part B.
 
